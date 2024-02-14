@@ -1,0 +1,144 @@
+Uri: https://13eyup37.xyz/
+File Name: C:\Downloaded Web Sites\13eyup37.xyz\index.htm
+Content Type: text/html
+
+Uri: https://13eyup37.xyz/cssfile.css
+File Name: C:\Downloaded Web Sites\13eyup37.xyz\cssfile.css
+Content Type: text/css
+
+Uri: https://13eyup37.xyz/fonts.css
+File Name: C:\Downloaded Web Sites\13eyup37.xyz\fonts.css
+Content Type: text/css
+
+Uri: https://13eyup37.xyz/script.js
+File Name: C:\Downloaded Web Sites\13eyup37.xyz\script.js
+Content Type: application/javascript
+
+Uri: https://13eyup37.xyz/style.css
+File Name: C:\Downloaded Web Sites\13eyup37.xyz\style.css
+Content Type: text/css
+
+Uri: https://cdn.discordapp.com/attachments/1176140457756069990/1195764445931110461/2faba0126817ea949b5e064216cbbdb0.jpg?ex=65b52d6c&is=65a2b86c&hm=6b389839108c34eadddc96fca59c18516f3d41e248c1fb11f1d976ef85162a8b&
+File Name: C:\Downloaded Web Sites\13eyup37.xyz\attachments\1176140457756069990\1195764445931110461\2faba0126817ea949b5e064216cbbdb0.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.discordapp.com/attachments/1176140457756069990/1195764773669847283/yanaksong.mp3?ex=65b52dba&is=65a2b8ba&hm=3731c86954336d711e1d01e0924ec770cd792af870581fa6a51cbaeeaa48dc92&
+File Name: C:\Downloaded Web Sites\13eyup37.xyz\attachments\1176140457756069990\1195764773669847283\yanaksong.mp3
+Content Type: audio/mpeg
+
+Uri: https://cur.cursors-4u.net/cursors/cur-9/cur862.png
+File Name: C:\Downloaded Web Sites\13eyup37.xyz\cursors\cur-9\cur862.png
+Content Type: image/png
+
+Uri: https://fonts.googleapis.com/css2?family=Raleway:wght@400;700&display=swap
+File Name: C:\Downloaded Web Sites\13eyup37.xyz\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto+Mono:100
+File Name: C:\Downloaded Web Sites\13eyup37.xyz\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/kanit/v12/nKKZ-Go6G5tXcraaGwCYdA.woff2
+File Name: C:\Downloaded Web Sites\13eyup37.xyz\s\kanit\v12\nKKZ-Go6G5tXcraaGwCYdA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/kanit/v12/nKKZ-Go6G5tXcraBGwCYdA.woff2
+File Name: C:\Downloaded Web Sites\13eyup37.xyz\s\kanit\v12\nKKZ-Go6G5tXcraBGwCYdA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/kanit/v12/nKKZ-Go6G5tXcraVGwA.woff2
+File Name: C:\Downloaded Web Sites\13eyup37.xyz\s\kanit\v12\nKKZ-Go6G5tXcraVGwA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/raleway/v29/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pYCP.ttf
+File Name: C:\Downloaded Web Sites\13eyup37.xyz\s\raleway\v29\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pYCP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v29/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaooCP.ttf
+File Name: C:\Downloaded Web Sites\13eyup37.xyz\s\raleway\v29\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaooCP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotomono/v23/L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vu_ROW9.ttf
+File Name: C:\Downloaded Web Sites\13eyup37.xyz\s\robotomono\v23\L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vu_ROW9.ttf
+Content Type: font/ttf
+
+Uri: https://spotify-recently-played-readme.vercel.app/api?user=elur7o8bm2mxwr00vmnq3hbly&width=300&count=3
+File Name: C:\Downloaded Web Sites\13eyup37.xyz\api
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.2.0/css/all.css
+File Name: C:\Downloaded Web Sites\13eyup37.xyz\releases\v5.2.0\css\all.css
+Content Type: text/css
+
+Uri: https://use.fontawesome.com/releases/v5.2.0/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\13eyup37.xyz\releases\v5.2.0\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.2.0/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\13eyup37.xyz\releases\v5.2.0\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.2.0/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\13eyup37.xyz\releases\v5.2.0\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.2.0/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\13eyup37.xyz\releases\v5.2.0\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.2.0/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\13eyup37.xyz\releases\v5.2.0\webfonts\fa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: https://use.fontawesome.com/releases/v5.2.0/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\13eyup37.xyz\releases\v5.2.0\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v5.2.0/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\13eyup37.xyz\releases\v5.2.0\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.2.0/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\13eyup37.xyz\releases\v5.2.0\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.2.0/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\13eyup37.xyz\releases\v5.2.0\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.2.0/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\13eyup37.xyz\releases\v5.2.0\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.2.0/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\13eyup37.xyz\releases\v5.2.0\webfonts\fa-regular-400.woff
+Content Type: application/font-woff
+
+Uri: https://use.fontawesome.com/releases/v5.2.0/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\13eyup37.xyz\releases\v5.2.0\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v5.2.0/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\13eyup37.xyz\releases\v5.2.0\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.2.0/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\13eyup37.xyz\releases\v5.2.0\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.2.0/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\13eyup37.xyz\releases\v5.2.0\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.2.0/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\13eyup37.xyz\releases\v5.2.0\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.2.0/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\13eyup37.xyz\releases\v5.2.0\webfonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: https://use.fontawesome.com/releases/v5.2.0/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\13eyup37.xyz\releases\v5.2.0\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
